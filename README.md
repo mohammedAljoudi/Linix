@@ -1,3 +1,2 @@
 # Linix
 
-![Uploading image.png…]()
